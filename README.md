@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho" alt="Rocketseat+"/>
 
-# DesignPatterns4Devs - Iterator
+# DesignPatterns4Devs - Observer
 Você já parou pra pensar que o Observer presente em programação reativa também é aplicado como um design pattern?
 Observer esta presente em frameworks como RxJS, Angular, e esta com nome de Listeners no Java... um padrão dos mais usados no mercado que tem uma efetividade enorme dentro do código. 
 Nesta aula você irá ter uma chuva de conceitos mesclados com prática para entender da melhor forma o Observer.
