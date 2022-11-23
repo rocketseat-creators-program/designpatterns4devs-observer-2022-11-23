@@ -12,7 +12,7 @@ Nesta aula você irá ter uma chuva de conceitos mesclados com prática para ent
 
 ![observerBefore](https://user-images.githubusercontent.com/42419543/203609281-a3b20f18-933a-486f-af6c-d002be9b082c.png)
 
-## [Slides](...)
+## [Slides](https://docs.google.com/presentation/d/1x0jhDoSSYfe9eMG1Hrqe4kIe66vxSw8w5IAwyBY15e0/edit?usp=sharing)
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/ananeridev) |
